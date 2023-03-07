@@ -1,2 +1,5 @@
 //Adding two numbers
  c = A + B
+ 
+ //Mulipliying two numbers
+ 
