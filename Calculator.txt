@@ -2,4 +2,4 @@
  c = A + B
  
  //Mulipliying two numbers
- 
+ D = A * B
